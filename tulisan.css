@@ -1,0 +1,9 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr auto; /* Membuat dua kolom, kolom pertama fleksibel */
+  }
+  
+  .text-left {
+    grid-column: 1; /* Menempatkan teks di kolom pertama */
+    text-align: left;
+  }

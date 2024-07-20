@@ -1,0 +1,40 @@
+div.ex{
+    width: 300px;
+    height: 50px;
+    background-color: lightgrey;
+    text-align: center;
+}
+div.exa{
+    position: absolute;
+    left: 8px;
+    top: 100px;
+    width: 100px;
+    height: 200px;
+    background-color: #d5c4ac;
+}
+div.exb{
+    position: absolute;
+    left: 108px;
+    top: 100px;
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    align-content: right;
+}
+div.exc{
+    position: absolute;
+    left: 8px;
+    top: 250px;
+    width: 100px;
+    height: 200px;
+    background-color: darkgray;
+}
+div.exd{
+    position: absolute;
+    left: 8px;
+    top: 450px;
+    width: 300px;
+    background-color: rgb(190, 168, 139);
+}
+
+
